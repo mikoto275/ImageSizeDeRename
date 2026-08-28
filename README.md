@@ -38,3 +38,5 @@ Windows 10 / 11（64bit）
 ## 開発・配布
 
 ミコト／画像サイズdeリネーム
+
+BOOTH：https://syosetuseikei.booth.pm/
